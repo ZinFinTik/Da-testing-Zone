@@ -28,4 +28,5 @@ button {
   font-style: italic;
   background: #2dcc2d;
   text-align: center;
+  border: none;
 }
